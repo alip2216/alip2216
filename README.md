@@ -66,7 +66,7 @@ Sistem ERP & Manajemen Antrean Klinik berbasis **Laravel 12** yang dirancang unt
   <a href="https://linkedin.com/in/username-anda">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/username-anda">
+  <a href="https://instagram.com/_akualipp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
