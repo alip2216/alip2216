@@ -63,10 +63,10 @@ Sistem ERP & Manajemen Antrean Klinik berbasis **Laravel 12** yang dirancang unt
   <a href="alifamunawwar16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/username-anda">
+  <a href="https://www.linkedin.com/in/alifamunawwar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/_akualipp">
+  <a href="https://instagram.com/alfanwwar_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
