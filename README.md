@@ -7,12 +7,13 @@
 ---
 
 ### 💫 About Me
+
 Saya adalah seorang pengembang web pemula yang bersemangat dalam membangun aplikasi web yang fungsional, bersih, dan estetik. Saat ini sedang fokus memperdalam arsitektur web modern, integrasi database, dan sistem antrean pelayanan kesehatan.
 
 - 🎓 Sedang menempuh pendidikan / aktif belajar teknologi web.
 - 🚀 Proyek terbaru: **Afsan Klinik** (Sistem Manajemen Klinik dengan fitur deteksi alergi obat & antrean real-time).
 - 💬 Tanyakan saya tentang: **PHP, Laravel, Bootstrap, Database Relasional (SQLite/MySQL)**.
-- ⚡ Kutipan Favorit: *"Setiap baris kode adalah langkah kecil menuju keahlian yang besar. Tetap belajar!"*
+- ⚡ Kutipan Favorit: _"Setiap baris kode adalah langkah kecil menuju keahlian yang besar. Tetap belajar!"_
 
 ---
 
@@ -38,18 +39,24 @@ Saya adalah seorang pengembang web pemula yang bersemangat dalam membangun aplik
 ---
 
 ### 📂 Featured Project
+
 #### 🏥 **[Afsan Klinik](https://github.com/alip2216/afsan-klinik)**
+
 Sistem ERP & Manajemen Antrean Klinik berbasis **Laravel 12** yang dirancang untuk mempercepat pelayanan pasien secara real-time.
-*   **Fitur Utama**: Sistem deteksi alergi obat & interaksi ganda secara real-time, dashboard dokter & apotek interaktif, serta real-time status polling.
-*   **Teknologi**: Laravel 12, Bootstrap 5, SQLite, AJAX, SweetAlert2.
+
+- **Fitur Utama**: Sistem deteksi alergi obat & interaksi ganda secara real-time, dashboard dokter & apotek interaktif, serta real-time status polling.
+- **Teknologi**: Laravel 12, Bootstrap 5, SQLite, AJAX, SweetAlert2.
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alip2216&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alip2216&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <!-- Menghapus count_private=true dan menambahkan &v=1 untuk bypass cache -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alip2216&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" width="48%" />
+  
+  <!-- Menghapus garis miring sebelum tanda tanya dan menambahkan &v=1 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alip2216&layout=compact&theme=tokyonight&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -59,6 +66,7 @@ Sistem ERP & Manajemen Antrean Klinik berbasis **Laravel 12** yang dirancang unt
 ---
 
 ### 📬 Connect with Me
+
 <p align="left">
   <a href="alifamunawwar16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
