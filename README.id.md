@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>Hi there, I'm Alif Amunawwar 👋</h1>
+  <h1>Halo, Saya Alif Amunawwar 👋</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7F9F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
-  <p>Architecting scalable solutions from end-to-end, integrating web, mobile, and AI technologies.</p>
+  <p>Merancang solusi terukur dari hulu ke hilir, mengintegrasikan teknologi web, mobile, dan AI.</p>
 
   <p align="center">
-    <b>🇬🇧 English</b> &nbsp;&bull;&nbsp;
-    <a href="README.id.md">🇮🇩 Bahasa Indonesia</a>
+    <a href="README.md">🇬🇧 English</a> &nbsp;&bull;&nbsp;
+    <b>🇮🇩 Bahasa Indonesia</b>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate **Full-Stack Developer** who thrives on transforming complex problems into elegant, user-centric digital experiences. My expertise spans across the entire software development lifecycle, from architecting robust server-side infrastructures to developing highly performant cross-platform mobile and frontend applications. I also have a keen interest in integrating AI-driven features to build smarter, next-generation platforms.
+### 👨‍💻 Tentang Saya
+Saya adalah seorang **Full-Stack Developer** yang antusias dalam mengubah masalah kompleks menjadi pengalaman digital yang elegan dan berfokus pada pengguna. Keahlian saya mencakup seluruh siklus pengembangan perangkat lunak, mulai dari membangun infrastruktur *server-side* yang tangguh hingga mengembangkan aplikasi *mobile cross-platform* dan *frontend* berkinerja tinggi. Saya juga memiliki ketertarikan mendalam dalam mengintegrasikan fitur Kecerdasan Buatan (AI) untuk membangun platform masa depan yang lebih cerdas.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Teknologi & Peralatan
 
-**Backend & Architecture**  
+**Backend & Arsitektur**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend & Mobile**  
@@ -32,36 +32,36 @@ I am a passionate **Full-Stack Developer** who thrives on transforming complex p
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Proyek Unggulan
 
 | 🌐 **[RCID (Rumah Cipta Inovasi Digital)](https://rcid.co.id)** |
 | :--- |
 | **Status:** 🚀 [Deployed to Production](https://rcid.co.id) |
-| A modern Company Profile website independently developed from initial planning to successful deployment in a production server environment. |
+| Website *Company Profile* modern yang dikembangkan secara mandiri, mulai dari tahap perencanaan awal hingga sukses di-*deploy* ke server produksi. |
 
 | 🚓 **SIKAHIL** (Sistem Informasi Kehilangan & Temuan Kendaraan) |
 | :--- |
-| **Award:** 🥈 2nd Place Winner (Bootcamp) |
-| A Civic Tech platform providing public services for tracking lost vehicles and managing police evidence inventory efficiently. |
+| **Penghargaan:** 🥈 Juara 2 Bootcamp |
+| Platform *Civic Tech* layanan publik yang dirancang untuk membantu masyarakat melacak kendaraan hilang serta memfasilitasi manajemen inventaris barang bukti kepolisian secara efisien. |
 
 | 📱 **Smart Learning** |
 | :--- |
-| **Feature:** 🧠 AI Integration • **Status:** Final Project |
-| A cross-platform mobile application built with Flutter/Dart and a Laravel backend. Features AI integration for intelligent study notes and proactive reminder notifications. |
+| **Fitur:** 🧠 Integrasi AI • **Status:** Proyek Tugas Akhir |
+| Aplikasi *mobile cross-platform* (Flutter/Dart & Laravel Backend) untuk pencatatan pembelajaran cerdas, dilengkapi integrasi Kecerdasan Buatan (AI) dan notifikasi pengingat proaktif. |
 
 | 🏥 **Afsan Klinik** |
 | :--- |
-| **Feature:** ⚡ Real-time Data • **Status:** Final Project |
-| A comprehensive clinical ERP and Queue Management System powered by Laravel. Highlights real-time drug allergy detection and interactive doctor-patient dashboards. |
+| **Fitur:** ⚡ Data Real-time • **Status:** Proyek Tugas Akhir |
+| Sistem ERP dan Manajemen Antrean Klinik komprehensif berbasis Laravel. Menonjolkan deteksi rekam medis alergi obat secara *real-time* dan dasbor interaktif dokter-pasien. |
 
 | 💻 **Nadigizi Compro & SaaS** |
 | :--- |
 | **Status:** 🚀 Active Production |
-| A dual-purpose platform combining a company profile website with a robust SaaS system tailored for account sales across SPPG and Dapur MBG integrations. |
+| Platform terintegrasi yang mencakup website *company profile* dan sistem SaaS terpusat untuk layanan penjualan akun pada integrasi SPPG dan Dapur MBG. |
 
 ---
 
-### 📫 Connect with Me
+### 📫 Mari Terhubung
 
 <p align="left">
   <a href="mailto:alifamunawwar16@gmail.com" target="_blank">
