@@ -26,6 +26,10 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=alip2216&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  </p>
 </div>
 
 ---
@@ -63,11 +67,9 @@ I am a dedicated **Full-Stack Developer** focused on designing robust backend ar
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alip2216&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alip2216&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alip2216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alip2216&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 <!--
