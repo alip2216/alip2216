@@ -1,82 +1,73 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221351230-4e2920c8-6927-464a-bc12-bf9e218768fb.gif" alt="Header Banner" width="100%" />
+
   <h1>Hi there, I'm Alif Amunawwar 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7F9F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7F9F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;Laravel+%26+Python+Specialist;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
-  <p>Architecting scalable solutions from end-to-end, integrating web, mobile, and AI technologies.</p>
-
+  
   <p align="center">
     <b>🇬🇧 English</b> &nbsp;&bull;&nbsp;
     <a href="README.id.md">🇮🇩 Bahasa Indonesia</a>
+  </p>
+
+  <p align="center">
+    <a href="mailto:alifamunawwar16@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/alifamunawwar/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://orcid.org/0009-0005-2515-7228" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+    </a>
+    <a href="https://instagram.com/alfanwwar_" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Full-Stack Developer** who thrives on transforming complex problems into elegant, user-centric digital experiences. My expertise spans across the entire software development lifecycle, from architecting robust server-side infrastructures to developing highly performant cross-platform mobile and frontend applications. I also have a keen interest in integrating AI-driven features to build smarter, next-generation platforms.
+I am a dedicated **Full-Stack Developer** focused on designing robust backend architectures, crafting modern web and mobile applications, and integrating AI-driven solutions. I enjoy building seamless end-to-end user experiences and writing clean, maintainable code to solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Backend & Architecture**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Frontend & Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**DevOps & Database**  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🛠️ Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,python,go,vue,astro,flutter,dart,bootstrap,js,docker,git,mysql,sqlite,vscode&perline=7" />
+  </a>
+</p>
 
 ---
 
 ### 🏆 Featured Projects
 
-| 🌐 **[RCID (Rumah Cipta Inovasi Digital)](https://rcid.co.id)** |
-| :--- |
-| **Status:** 🚀 [Deployed to Production](https://rcid.co.id) |
-| A modern Company Profile website independently developed from initial planning to successful deployment in a production server environment. |
-
-| 🚓 **SIKAHIL** (Sistem Informasi Kehilangan & Temuan Kendaraan) |
-| :--- |
-| **Award:** 🥈 2nd Place Winner (Bootcamp) |
-| A Civic Tech platform providing public services for tracking lost vehicles and managing police evidence inventory efficiently. |
-
-| 📱 **Smart Learning** |
-| :--- |
-| **Feature:** 🧠 AI Integration • **Status:** Final Project |
-| A cross-platform mobile application built with Flutter/Dart and a Laravel backend. Features AI integration for intelligent study notes and proactive reminder notifications. |
-
-| 🏥 **Afsan Klinik** |
-| :--- |
-| **Feature:** ⚡ Real-time Data • **Status:** Final Project |
-| A comprehensive clinical ERP and Queue Management System powered by Laravel. Highlights real-time drug allergy detection and interactive doctor-patient dashboards. |
-
-| 💻 **Nadigizi Compro & SaaS** |
-| :--- |
-| **Status:** 🚀 Active Production |
-| A dual-purpose platform combining a company profile website with a robust SaaS system tailored for account sales across SPPG and Dapur MBG integrations. |
+- 🌐 **[RCID Company Profile](https://rcid.co.id)** — *Live Production*
+  A modern Company Profile website independently developed from initial planning to successful deployment. *(Tech: Laravel • Bootstrap)*
+  
+- 🛡️ **SIKAHIL (Vehicle Loss & Recovery System)** — *2nd Place Bootcamp Winner*
+  A Civic Tech platform for tracking lost vehicles and managing police evidence inventory efficiently.
+  
+- 🤖 **Smart Learning App** — *Final Project*
+  A cross-platform mobile application built with Flutter/Dart and a Laravel backend, featuring AI integration and smart reminders.
+  
+- 🏥 **Afsan Klinik** — *Final Project*
+  A comprehensive clinical ERP and Queue Management System powered by Laravel, highlighting real-time drug allergy detection.
+  
+- 💻 **Nadigizi Compro & SaaS** — *Active Production*
+  An integrated platform combining a company profile website with a robust SaaS system tailored for account sales across SPPG and Dapur MBG integrations.
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:alifamunawwar16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alifamunawwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://orcid.org/0009-0005-2515-7228" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  <a href="https://instagram.com/alfanwwar_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alip2216&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alip2216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 <!--
 **alip2216/alip2216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
