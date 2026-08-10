@@ -62,7 +62,7 @@ Saya adalah seorang **Full-Stack Developer** yang berdedikasi tinggi, berfokus p
 - 🏥 **Afsan Klinik** — *Proyek Tugas Akhir*
   Sistem ERP dan Manajemen Antrean Klinik komprehensif berbasis Laravel. Menonjolkan deteksi rekam medis alergi obat secara *real-time*.
   
-- 💻 **Nadigizi Compro & SaaS** — *Active Production*
+- 💻 **[Nadigizi Compro & SaaS](https://www.nadigizi.com)** — *Active Production*
   Platform terintegrasi yang mencakup website *company profile* dan sistem SaaS terpusat untuk layanan penjualan akun pada integrasi SPPG dan Dapur MBG.
 
 ---
