@@ -62,7 +62,7 @@ I am a dedicated **Full-Stack Developer** focused on designing robust backend ar
 - 🏥 **Afsan Klinik** — *Final Project*
   A comprehensive clinical ERP and Queue Management System powered by Laravel, highlighting real-time drug allergy detection.
   
-- 💻 **Nadigizi Compro & SaaS** — *Active Production*
+- 💻 **[Nadigizi Compro & SaaS](https://www.nadigizi.com)** — *Active Production*
   An integrated platform combining a company profile website with a robust SaaS system tailored for account sales across SPPG and Dapur MBG integrations.
 
 ---
